@@ -1,0 +1,118 @@
+[
+    {
+        "name": "Andhra Pradesh",
+        "code": "ANP"
+    },
+    {
+        "name": "Arunachal Pradesh",
+        "code": "ARP"
+    },
+    {
+        "name": "Assam",
+        "code": "ASM"
+    },
+    {
+        "name": "Bihar",
+        "code": "BHR"
+    },
+    {
+        "name": "Chhattisgarh",
+        "code": "CHG"
+    },
+    {
+        "name": "Goa",
+        "code": "GA"
+    },
+    {
+        "name": "Gujarat",
+        "code": "GJ"
+    },
+    {
+        "name": "Haryana",
+        "code": "HRY"
+    },
+    {
+        "name": "Himachal Pradesh",
+        "code": "HMP"
+    },
+    {
+        "name": "Jharkhand",
+        "code": "JHK"
+    },
+    {
+        "name": "Karnataka",
+        "code": "KNT"
+    },
+    {
+        "name": "Kerala",
+        "code": "KRL"
+    },
+    {
+        "name": "Madhya Pradesh",
+        "code": "MP"
+    },
+    {
+        "name": "Maharashtra",
+        "code": "MH"
+    },
+    {
+        "name": "Manipur",
+        "code": "MNP"
+    },
+    {
+        "name": "Meghalaya",
+        "code": "MGH"
+    },
+    {
+        "name": "Mizoram",
+        "code": "MIZ"
+    },
+    {
+        "name": "Nagaland",
+        "code": "NGL"
+    },
+    {
+        "name": "Odisha",
+        "code": "ODS"
+    },
+    {
+        "name": "Punjab",
+        "code": "PJB"
+    },
+    {
+        "name": "Rajasthan",
+        "code": "RJS"
+    },
+    {
+        "name": "Sikkim",
+        "code": "SKM"
+    },
+    {
+        "name": "Tamil Nadu",
+        "code": "TN"
+    },
+    {
+        "name": "Telangana",
+        "code": "TEL"
+    },
+    {
+        "name": "Tripura",
+        "code": "TRP"
+    },
+    {
+        "name": "Uttar Pradesh",
+        "code": "UP"
+    },
+    {
+        "name": "Uttarakhand",
+        "code": "UTK"
+    },
+    {
+        "name": "Gairsain",
+        "code": "GRS"
+    },
+    {
+        "name": "West Bengal",
+        "code": "WB"
+    }
+]
